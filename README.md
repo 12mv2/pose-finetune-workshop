@@ -1,2 +1,2 @@
-# pose-finetune-workshop
-Workshop on fine-tuning the RTMPose‑S model with a small custom dataset of running videos. It includes scripts for extracting and labeling frames, configuring MMPose to train on the labeled data, running inference with the fine‑tuned model, and visualizing pose keypoints. Instructions for setting up a RunPod GPU
+# Fine-tuning RTMPose for Gait Analysis
+This repository contains all the materials for a workshop on fine-tuning the RTMPose‑S model with a small custom dataset of running videos. It includes scripts for extracting and labeling frames, configuring MMPose to train on the labeled data, running inference with the fine‑tuned model, and visualizing pose keypoints. Instructions for setting up a local or RunPod GPU environment and integrating results into a lightweight analysis pipeline are also provided.
